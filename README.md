@@ -1,5 +1,6 @@
 # S2PRO GAMING SHOP E-commerce Website
 Project's link : http://s2pro.42web.io/
+<br>
 This Laravel 10 application is a full-featured e-commerce website built for S2PRO GAMING SHOP, a home appliance and electronics store. It provides functionalities for browsing products, managing a shopping cart, user authentication (guests and admins), and an admin panel for product and user management. The website prioritizes responsiveness for a seamless user experience across all devices.
 
 ## Technologies Used
